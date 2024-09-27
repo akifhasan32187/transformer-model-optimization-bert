@@ -14,7 +14,7 @@ model's.
 </tr>
   <tr>
     <td><img src="https://drive.google.com/uc?export=view&id=1AKkSxguek7Dnjqncd-85JLec0A9dt-A_" alt="GitHub-Mark" width="300"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1Nk-IYNFRGokvspLSh_hUVichXV4kZPsd" alt="GitHub-Mark" width="300"></td>
+   
     
     
   </tr>
