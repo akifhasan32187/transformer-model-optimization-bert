@@ -13,7 +13,7 @@ model's.
     <td><img src="https://drive.google.com/uc?export=view&id=1W_vy4hGnCbwWrIKN0nRumM_nn3MCgjH8" alt="GitHub-Mark" width="300"></td>
 </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1AKkSxguek7Dnjqncd-85JLec0A9dt-A_" alt="GitHub-Mark" width="1000"></td>
+    <td colspan="2"><img src="https://drive.google.com/uc?export=view&id=1AKkSxguek7Dnjqncd-85JLec0A9dt-A_" alt="GitHub-Mark" width="1000"></td>
    
     
     
