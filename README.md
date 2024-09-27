@@ -10,10 +10,12 @@ model's.
   <tr>
     <td><img src="https://drive.google.com/uc?export=view&id=1pCYER9BFdKV5xt80_A8MyGHQOsrc5fR6" alt="GitHub-Mark" width="300"></td>
     <td><img src="https://drive.google.com/uc?export=view&id=1w9NlZdoxwAOvCWY_ab2V0KGWB5Qc-Edb" alt="GitHub-Mark" width="300"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1W_vy4hGnCbwWrIKN0nRumM_nn3MCgjH8" alt="GitHub-Mark" width="300"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1W_vy4hGnCbwWrIKN0nRumM_nn3MCgjH8" alt="GitHub-Mark" width="600"></td>
 </tr>
   <tr>
-    <td colspan="2"><img src="https://drive.google.com/uc?export=view&id=1AKkSxguek7Dnjqncd-85JLec0A9dt-A_" alt="GitHub-Mark" width="1000"></td>
+    <td colspan="2"><img src="https://drive.google.com/uc?export=view&id=1AKkSxguek7Dnjqncd-85JLec0A9dt-A_" alt="GitHub-Mark" width="600"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1m_1isaQiK9UPXvORgVKucQp4mnIq5egQ" alt="GitHub-Mark" width="600"></td>
+    
    
     
     
